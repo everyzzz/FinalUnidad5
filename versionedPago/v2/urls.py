@@ -6,6 +6,4 @@ route.register("services", ServicesView, basename = "services")
 route.register("payment-users", PaymentUsersView, basename = "payment-user")
 route.register("expired-payment", ExpiredPaymentView, basename = "expired-payment")
 
-
-
 urlpatterns = route.urls
