@@ -23,7 +23,7 @@ class PaymentUsersView(ModelViewSet):
     filter_backends = [filters.SearchFilter]
     search_fields = ['payment_date', 'expiration_date']
 
-    permission_classes = [AllowAny]
+    permission_classes = [IsAuthenticated, ]
 
     throttle_scope = 'pagos'
 
@@ -32,5 +32,5 @@ class ExpiredPaymentView(ModelViewSet):
     #serializer_class = ExpiredPaymentsSerializers
     pagination_class = SimplePagination
     #http_method_names = ['get','post']
-    #permission_classes = [AllowAny]
+    permission_classes = [IsAuthenticated, ]
     throttle_scope = 'expired'

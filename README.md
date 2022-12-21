@@ -47,3 +47,13 @@ Admin: Tiene acceso al CRUD de todas las vistas.
 
 Si la fecha de pago supera a la fecha de expiración, se debe crear un registro automático en Expired_payments.
 
+<h1> Integrantes </h1>
+-José Quispe Reyes <br>
+-Jelsin Palomino <br>
+
+<h2> Docs Swagger </h2>
+https://finalunidad5-production.up.railway.app/api/schema/swagger-ui/<br>
+https://finalunidad5-production.up.railway.app/api/schema/redoc/<br>
+
+<h2> Link Railway </h2>
+https://finalunidad5-production.up.railway.app/v2/
