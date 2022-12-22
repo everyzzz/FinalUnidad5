@@ -7,7 +7,6 @@ class ServicesSerializers(ModelSerializer):
         fields = "__all__"
 
 class PaymentUsersSerializers(ModelSerializer):
-    # TODO: Por si acaso servicios = ServicesSerializers(many=True, read_only=True,source="services_set")
     class Meta:
         model = PaymentUser
         fields = "__all__"
