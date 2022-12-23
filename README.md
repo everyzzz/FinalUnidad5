@@ -57,3 +57,13 @@ https://finalunidad5-production.up.railway.app/api/schema/redoc/<br>
 
 <h2> Link Railway </h2>
 https://finalunidad5-production.up.railway.app/v2/
+
+<h2> Link Login </h2>
+https://finalunidad5-production.up.railway.app/users/login/ <br/>
+<h2> Credenciales </h2>
+<h3>Admin 1</h3>
+email: jose@gmail.com<br/>
+password: adminadmin<br/>
+<h3>Admin 2</h3>
+email: jtpalomino@hotmail.com<br/>
+password: jelsin12<br/>
