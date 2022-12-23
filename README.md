@@ -1,8 +1,5 @@
-Título
-API de pagos de servicios.
+<h1>API de pagos de servicios</h1>
 
-
-<!--* hecho -->
 Funcionalidades a desarrollar:
 Realizar el versionamiento basado en la tarea desarrollada. *
 Versión 1: lo desarrollado el viernes 16 de diciembre. *
