@@ -28,7 +28,7 @@ User
 - Id
 - Email
 - Username
-- Password 
+- Password <br/>
 Para la parte del login deben hacer uso de simpleJWT, y debe contar con las mismas funcionalidades que el login desarrollado en sesiones anteriores.
 La API deberá contar con el CRUD para todos los modelos presentados.
 La vista creada para el modelo de servicios debe ser estática, por lo que debe contar únicamente con el método GET.
