@@ -39,7 +39,7 @@ Implementar Throttling para la vista de pagos con 1000 request por día y las de
 Generar la documentación de toda su API.
 
 
-<!--! Falta -->
+
 Deben crear roles para el uso de la API.
 Anónimo: No puede acceder a la API
 Usuario normal: Puede realizar POST de los pagos y hacer GET de todas las vistas.
