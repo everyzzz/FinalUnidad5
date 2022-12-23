@@ -44,7 +44,7 @@ Si la fecha de pago supera a la fecha de expiración, se debe crear un registro 
 
 <h1> Integrantes </h1>
 <a href="https://github.com/everyzzz/">-José Quispe Reyes</a><br>
-<a hreg="https://github.com/JelsinPalomino/">-Jelsin Palomino</a><br>
+<a href="https://github.com/JelsinPalomino/">-Jelsin Palomino</a><br>
 
 <h2> Docs Swagger </h2>
 https://finalunidad5-production.up.railway.app/api/schema/swagger-ui/<br>
