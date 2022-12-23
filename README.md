@@ -28,7 +28,8 @@ User
 - Id
 - Email
 - Username
-- Password <br/>
+- Password
+<h2>Instrucciones</h2>
 Para la parte del login deben hacer uso de simpleJWT, y debe contar con las mismas funcionalidades que el login desarrollado en sesiones anteriores.
 La API deberá contar con el CRUD para todos los modelos presentados.
 La vista creada para el modelo de servicios debe ser estática, por lo que debe contar únicamente con el método GET.
@@ -37,9 +38,6 @@ Añadir Paginación de 100 resultados por página.
 Añadir filtro de búsqueda en Payment_user para los campos de fecha de pago y fecha de expiración.
 Implementar Throttling para la vista de pagos con 1000 request por día y las demás de 2000 por día. Para las pruebas realizar con 3 y 7 respectivamente.
 Generar la documentación de toda su API.
-
-
-
 Deben crear roles para el uso de la API.
 Anónimo: No puede acceder a la API
 Usuario normal: Puede realizar POST de los pagos y hacer GET de todas las vistas.
