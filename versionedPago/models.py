@@ -29,7 +29,7 @@ class PaymentUser(models.Model):
 
 class ExpiredPayments(models.Model):
     payment_user_id = models.ForeignKey(PaymentUser, on_delete = models.CASCADE)
-    penalty_free_amount = models.IntegerField()
+    penalty_free_amount = models.FloatField()
 
     class Meta:
         db_table = "expired_payments"
